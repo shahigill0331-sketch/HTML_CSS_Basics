@@ -1,2 +1,8 @@
 # HTML_CSS_Basics
-Beginner projects to practice HTML, CSS, and Python for learning web development.
+This repository contains beginner-level HTML and CSS exercises to practice web development.
+
+## Skills Used
+HTML | CSS
+
+## Purpose
+Learning web development basics and improving coding skills.
